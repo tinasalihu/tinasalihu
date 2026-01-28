@@ -5,7 +5,7 @@ Currently an aspiring data analyst passionate about using technology to solve da
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Programming & Data:** Python, SQL, Excel, C++, R
 **Data Analysis & Visualization:** Tableau, PowerBI, Python (matplotlib, seaborn)
@@ -13,7 +13,7 @@ Currently an aspiring data analyst passionate about using technology to solve da
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 - [Life Expectancy Analysis](https://github.com/tinasalihu/life-expectancy-analysis) – Cleaned and analysed global life expectancy data; built ethical and advanced predictive models to estimate country-level life expectancy.  
 - [Customer Churn Analysis](https://github.com/tinasalihu/customer-churn-analysis) – Performed EDA and developed logistic regression and random forest models to identify the top 500 customers most likely to churn.  
@@ -22,7 +22,7 @@ Currently an aspiring data analyst passionate about using technology to solve da
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tinasalihu/)  
 - Email: tinasalihu01@hotmail.com
