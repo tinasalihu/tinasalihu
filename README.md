@@ -1,7 +1,5 @@
 # Hi, I'm Tina!
-I'm a Mathematics graduate from Queen Mary University.
-
-Currently an aspiring data analyst passionate about using technology to solve data problems!
+I'm a Mathematics graduate from Queen Mary University, passionate about using technology to solve data problems.
 
 ---
 
