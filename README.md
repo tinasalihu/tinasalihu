@@ -8,7 +8,9 @@ Currently an aspiring data analyst passionate about using technology to solve da
 ## Skills
 
 **Programming & Data:** Python, SQL, Excel, C++, R
+
 **Data Analysis & Visualization:** Tableau, PowerBI, Python (matplotlib, seaborn)
+
 **Concepts & Competencies:** Data cleaning, feature engineering, predictive modelling, problem solving, stakeholder communication
 
 ---
