@@ -15,9 +15,9 @@ I'm a Mathematics graduate from Queen Mary University, passionate about using te
 
 ## Featured Projects
 
-- [Life Expectancy Analysis](https://github.com/tinasalihu/life-expectancy-analysis) – Cleaned and analysed global life expectancy data; built ethical and advanced predictive models to estimate country-level life expectancy.  
-- [Customer Churn Analysis](https://github.com/tinasalihu/customer-churn-analysis) – Performed EDA and developed logistic regression and random forest models to identify the top 500 customers most likely to churn.  
-- [Wildfire Risk Prediction](https://github.com/tinasalihu/wildfire-risk-model) – Built an XGBoost model to predict wildfire occurrence; visualized results with Streamlit for interactive exploration.  
+- [Life Expectancy Analysis](https://github.com/tinasalihu/life-expectancy-predictor) – Cleaned and analysed global life expectancy data; built ethical and advanced predictive models to estimate country-level life expectancy.  
+- [Customer Churn Analysis](https://github.com/tinasalihu/customer-churn-risk) – Performed EDA and developed logistic regression and random forest models to identify the top 500 customers most likely to churn.  
+- [Wildfire Risk Prediction](https://github.com/tinasalihu/wildfire-prediction-model) – Built an XGBoost model to predict wildfire occurrence; visualized results with Streamlit for interactive exploration.  
 - [Movie Data Analysis](https://github.com/tinasalihu/movie-data-analysis) – Exploratory analysis of movie datasets with visualizations and summary statistics.
 
 ---
